@@ -82,4 +82,4 @@ This dashboard helps businesses understand customer churn behavior, revenue patt
 
 📷 Dashboard Preview
 
-Dashboard
+[Dashboard](dashboard2.png)
