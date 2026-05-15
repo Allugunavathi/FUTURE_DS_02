@@ -55,7 +55,7 @@ Applying data storytelling techniques for business insights
 
 📷 Dashboard Preview
 
-[Dashboard](dashboard2.png)
+[Dashboard](dashboard.png)
 
 🚀 Future Improvements
 
